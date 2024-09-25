@@ -5,7 +5,7 @@
 </p>
 
 <hr>
-<h3 align="center">Student at Columbia University | Passionate Full-Stack Developer | Aspiring Software Engineer in FinTech</h3>
+<h3 align="center">Student at Columbia University | Passionate Full-Stack Developer  <br> Aspiring Software Engineer in FinTech</h3>
 <hr>
 
 - 🎓 **I am studying Computer Science** at Columbia University in the School of Engineering and Applied Science.
