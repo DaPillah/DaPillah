@@ -7,6 +7,24 @@
 
 ### 🔭 Projects
 
+<ul>
+
+  <li>
+    <strong>Password Manager - <i>WPF, XAML, C#</i></strong>
+    <ul>
+      <li><a href="https://github.com/DaPillah/Password-Manager" target="_blank">Password Manager</a></li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>2D Adventure Game - <i>Unity, C#</i></strong>
+    <ul>
+      <li><a href="https://github.com/DaPillah/2D-Adventure" target="_blank">Adventure Game</a></li>
+    </ul>
+  </li>
+
+</ul> 
+
 #### 1. [Password Manager (WPF, XAML, C#)](https://github.com/DaPillah/Password-Manager)
 <!--
 - **Description**: A GUI-based password manager that allows users to store, manage, and encrypt passwords securely using SQL encryption techniques. It offers a simple and intuitive user interface built using WPF and XAML through Visual Studio.
