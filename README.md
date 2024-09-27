@@ -10,16 +10,16 @@
 <ul>
 
   <li>
-    <strong>Password Manager - <i>WPF, XAML, C#</i></strong>
+    <strong>Personal Projects<i></i></strong>
     <ul>
-      <li><a href="https://github.com/DaPillah/Password-Manager" target="_blank">Password Manager</a></li>
+      <li><a href="https://github.com/DaPillah/Password-Manager" target="_blank">Password Manager (C#, WPF, XAML)</a></li>
     </ul>
   </li>
 
   <li>
-    <strong>2D Adventure Game - <i>Unity, C#</i></strong>
+    <strong>Game Development Projects<i></i></strong>
     <ul>
-      <li><a href="https://github.com/DaPillah/2D-Adventure" target="_blank">Adventure Game</a></li>
+      <li><a href="https://github.com/DaPillah/2D-Adventure" target="_blank">Adventure Game (Unity, C#)</a></li>
     </ul>
   </li>
 
