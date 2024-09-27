@@ -8,23 +8,25 @@
 ### 🔭 Projects
 
 #### 1. [Password Manager (WPF, XAML, C#)](https://github.com/DaPillah/Password-Manager)
+<!--
 - **Description**: A GUI-based password manager that allows users to store, manage, and encrypt passwords securely using SQL encryption techniques. It offers a simple and intuitive user interface built using WPF and XAML through Visual Studio.
 - **Technologies Used**: C#, WPF, XAML, SQL for encryption.
 - **Key Features**:
    - Secure storage of passwords using SQL encryption.
    - User-friendly interface for adding, editing, and retrieving passwords.
-   - SQL backend for managing encrypted password data.
+   - SQL backend for managing encrypted password data. -->
 
 
 <!-- #### 2. 2D Adventure Game (Unity, C#) -->
 #### 2. [2D Adventure Game (Unity, C#)](https://github.com/DaPillah/2D-Adventure)
+<!--
 - **Description**: A complex 2D adventure game developed using Unity, featuring different enemies, interactive environments, and character abilities like a chargeable fireball attack. The game also includes various areas to explore with unique level designs and animations.
 - **Technologies Used**: Unity, C#, 2D Art & Animations.
 - **Key Features**:
    - Multiple enemy types with different behaviors.
    - Interactive environments (e.g., levers) and map areas to explore.
    - Custom animations and abilities, such as chargeable fireball attacks.
-   - Full frontend and backend development, including character controls and environment design.
+   - Full frontend and backend development, including character controls and environment design. -->
 
 
 
