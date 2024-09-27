@@ -7,7 +7,7 @@
 
 ### 🔭 Projects
 
-#### 1. Password Manager (WPF, XAML, C#)
+#### 1. [Password Manager (WPF, XAML, C#)](https://github.com/DaPillah/Password-Manager)
 - **Description**: A GUI-based password manager that allows users to store, manage, and encrypt passwords securely using SQL encryption techniques. It offers a simple and intuitive user interface built using WPF and XAML through Visual Studio.
 - **Technologies Used**: C#, WPF, XAML, SQL for encryption.
 - **Key Features**:
