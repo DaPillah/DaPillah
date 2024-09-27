@@ -12,7 +12,7 @@
   <li>
     <strong>Personal Projects<i></i></strong>
     <ul>
-      <li><a href="https://github.com/DaPillah/Password-Manager" target="_blank">Password Manager (C#, WPF, XAML)</a></li>
+      <li><a href="https://github.com/DaPillah/Password-Manager" target="_blank">Password Manager (C#, XAML, WPF)</a></li>
     </ul>
   </li>
 
