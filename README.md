@@ -17,7 +17,7 @@
 
 
 <!-- #### 2. 2D Adventure Game (Unity, C#) -->
-#### [2. 2D Adventure Game (Unity, C#)](https://github.com/DaPillah/2D-Adventure)
+#### 2. [2D Adventure Game (Unity, C#)](https://github.com/DaPillah/2D-Adventure)
 - **Description**: A complex 2D adventure game developed using Unity, featuring different enemies, interactive environments, and character abilities like a chargeable fireball attack. The game also includes various areas to explore with unique level designs and animations.
 - **Technologies Used**: Unity, C#, 2D Art & Animations.
 - **Key Features**:
