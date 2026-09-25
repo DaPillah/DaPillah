@@ -1,95 +1,61 @@
-<h1 align="center">Hello! I'm Justin Oketunmbi 🇳🇬</h1>
+# Hi, I'm Justin Oketunmbi 🇳🇬
 
+**Software engineer** and **Computer Science student at Columbia University** (minor in Music), building at the intersection of software engineering and product.
 
+Over the past year I've been increasingly drawn to product management, a place to put empathy and communication to work for customers and teammates while building things that genuinely help people. At the same time, I'm just as committed to engineering: building the tools that make that impact possible.
 
-<h3 align="center">Student at Columbia University | Passionate Full-Stack Developer  <br> Aspiring Software Engineer in FinTech</h3>
-<hr>
+Recent work spans production SaaS, FinTech + LLM systems, and open source merged upstream.
 
-### 🔭 Projects
+---
 
-<ul>
+## 🚀 Featured work
 
-  <li>
-    <strong>Personal Projects<i></i></strong>
-    <ul>
-      <li><a href="https://github.com/DaPillah/Password-Manager" target="_blank">Password Manager (C#, XAML, WPF)</a></li>
-    </ul>
-  </li>
+### [R20 Reach](https://github.com/DaPillah/r20-reach): production SaaS
+A relationship-first outreach & discipleship platform serving a multi-campus college ministry (Columbia, NYU, CCNY, Pace). Built as an in-house replacement for a **~$1,095/mo** commercial tool, now running for **~$35-70/mo**.
 
-  <li>
-    <strong>Game Development Projects<i></i></strong>
-    <ul>
-      <li><a href="https://github.com/DaPillah/2D-Adventure" target="_blank">Adventure Game (Unity, C#)</a></li>
-    </ul>
-  </li>
+- ~17k lines of **TypeScript**, end to end
+- Framework-free, **unit-tested domain core**: the "who's due today" queue and quiet-hours logic live as pure functions, independent of the DB and framework
+- **Next.js** (App Router, PWA) · **Supabase** (Postgres, Row-Level Security, Realtime) · **Inngest** (durable journeys) · **Twilio** · **Resend** · **Anthropic SDK** · Vercel
+- Consent compliance and responsible-AI gating built in, not bolted on
 
-</ul>
+### [sec-llm-service](https://github.com/DaPillah/sec-llm-service): FinTech + LLM on AWS
+A serverless pipeline that answers questions over **SEC 10-Q filings**.
 
-<!--
-#### 1. [Password Manager (WPF, XAML, C#)](https://github.com/DaPillah/Password-Manager)
+- 10-Q inference Lambda plus a **RAG pipeline** (chunking, embedding, retrieval)
+- An **MCP server** exposing the inference as a `query_sec_filing` tool
+- **Cognito JWT auth**, API Gateway, and **AWS CDK** infrastructure-as-code
+- **Python** backend · **React / Amplify** frontend
 
-- **Description**: A GUI-based password manager that allows users to store, manage, and encrypt passwords securely using SQL encryption techniques. It offers a simple and intuitive user interface built using WPF and XAML through Visual Studio.
-- **Technologies Used**: C#, WPF, XAML, SQL for encryption.
-- **Key Features**:
-   - Secure storage of passwords using SQL encryption.
-   - User-friendly interface for adding, editing, and retrieving passwords.
-   - SQL backend for managing encrypted password data. -->
+---
 
+## 🌍 Open source, merged upstream
 
-<!-- #### 2. 2D Adventure Game (Unity, C#) 
-#### 2. [2D Adventure Game (Unity, C#)](https://github.com/DaPillah/2D-Adventure)
+- **[astronomer/astronomer-cosmos #2826](https://github.com/astronomer/astronomer-cosmos/pull/2826)**: surfaced dbt `stdout`/`stderr` and exit codes in `CosmosLoadDbtException` and tightened failure detection. Merged after full maintainer review.
+- **[ai2cm/ace #1350](https://github.com/ai2cm/ace/pull/1350)**: fixed silently-dropped config defaults so runs log their complete configuration to Weights & Biases. Merged into the Allen Institute for AI's climate ML emulator.
 
-- **Description**: A complex 2D adventure game developed using Unity, featuring different enemies, interactive environments, and character abilities like a chargeable fireball attack. The game also includes various areas to explore with unique level designs and animations.
-- **Technologies Used**: Unity, C#, 2D Art & Animations.
-- **Key Features**:
-   - Multiple enemy types with different behaviors.
-   - Interactive environments (e.g., levers) and map areas to explore.
-   - Custom animations and abilities, such as chargeable fireball attacks.
-   - Full frontend and backend development, including character controls and environment design. -->
+Detailed writeups of how I approach these contributions live in [open-source-contributions](https://github.com/DaPillah/open-source-contributions).
 
+---
 
+## 🛠 Tech I work with
 
-<hr>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
 
-### 🛠 Skills & Technologies
+**Also:** AWS Lambda · CDK · API Gateway · Cognito · Amplify · SQL · Git
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
-</div>
+---
 
-<hr>
+## 📫 Reach me
 
-### 🌱 What I'm Learning
-- Exploring **FinTech** with an interest in finance-related technologies and systems.
-- Expanding my knowledge of **Python** for data analysis and automation.
-- Improving my proficiency with **SQL** and database management.
-
-<hr>
-
-### 🚀 Future Goals
-- Specializing in financial technology and software engineering.
-- Building more secure and scalable applications in the FinTech space.
-
-<hr>
-
-### 📫 How to reach me
-- Email: **jo2761@columbia.edu**
-- LinkedIn: [Justin Oketunmbi](https://linkedin.com/in/justin-oketunmbi)
-
-<hr>
-
-
-
-### 🎉 Favorite GIF
-![Fun GIF](https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif?cid=ecf05e47b857w25tn0hi3doa5nmhhx2n63z14zc1yr5s3pys&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+- **Email:** jo2761@columbia.edu
+- **LinkedIn:** [Justin Oketunmbi](https://www.linkedin.com/in/justin-oketunmbi/)
