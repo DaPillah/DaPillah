@@ -11,7 +11,7 @@ Recent work spans production SaaS, FinTech + LLM systems, and open source merged
 ## 🚀 Featured work
 
 ### [R20 Reach](https://github.com/DaPillah/r20-reach): production SaaS
-A relationship-first outreach & discipleship platform serving a multi-campus college ministry (Columbia, NYU, CCNY, Pace). Built as an in-house replacement for a **~$1,095/mo** commercial tool, now running for **~$35-70/mo**.
+A relationship-first outreach & discipleship platform serving a multi-campus college ministry (Columbia, NYU, CCNY, Pace).
 
 - ~17k lines of **TypeScript**, end to end
 - Framework-free, **unit-tested domain core**: the "who's due today" queue and quiet-hours logic live as pure functions, independent of the DB and framework
