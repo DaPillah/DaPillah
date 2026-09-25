@@ -33,7 +33,7 @@ A serverless pipeline that answers questions over **SEC 10-Q filings**.
 - **[astronomer/astronomer-cosmos #2826](https://github.com/astronomer/astronomer-cosmos/pull/2826)**: surfaced dbt `stdout`/`stderr` and exit codes in `CosmosLoadDbtException` and tightened failure detection. Merged after full maintainer review.
 - **[ai2cm/ace #1350](https://github.com/ai2cm/ace/pull/1350)**: fixed silently-dropped config defaults so runs log their complete configuration to Weights & Biases. Merged into the Allen Institute for AI's climate ML emulator.
 
-Detailed writeups of how I approach these contributions live in [open-source-contributions](https://github.com/DaPillah/open-source-contributions).
+Detailed writeups of how I approach these contributions live in [open-source-contributions](https://github.com/DaPillah/github-contribution-log).
 
 ---
 
@@ -58,4 +58,4 @@ Detailed writeups of how I approach these contributions live in [open-source-con
 ## 📫 Reach me
 
 - **Email:** jo2761@columbia.edu
-- **LinkedIn:** [Justin Oketunmbi](https://www.linkedin.com/in/justin-oketunmbi/)
+- **LinkedIn:** [Justin Oketunmbi](https://www.linkedin.com/in/YOUR-HANDLE)
