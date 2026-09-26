@@ -10,7 +10,7 @@ Recent work spans production SaaS, FinTech + LLM systems, and open source merged
 
 ## 🚀 Featured work
 
-### [R20 Reach](https://github.com/DaPillah/r20-reach): production SaaS
+### [Oikos](https://github.com/DaPillah/r20-reach): production SaaS
 A relationship-first outreach & discipleship platform serving a multi-campus college ministry (Columbia, NYU, CCNY, Pace).
 
 - ~17k lines of **TypeScript**, end to end
